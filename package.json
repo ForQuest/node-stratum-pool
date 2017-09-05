@@ -29,6 +29,7 @@
     },
     "dependencies": {
         "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
+        "ethashjs": "git+https://github.com/ForQuest/ethashjs.git",
         "bignum": "*",
         "base58-native": "*",
         "async": "*",
