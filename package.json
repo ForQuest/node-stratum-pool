@@ -33,7 +33,7 @@
         "bignum": "*",
         "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
         "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
-        "ethashjs": "git+https://github.com/ForQuest/ethashjs.git",
+        "ethashjs-verify": "git+https://github.com/ForQuest/ethashjs-verify.git",
         "ethereum-address": "0.0.4",
         "merkle-bitcoin": "git+https://github.com/joshuayabut/merkle-bitcoin.git",
         "promise": "*"
