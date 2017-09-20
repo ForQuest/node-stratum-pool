@@ -29,7 +29,7 @@
     },
     "dependencies": {
         "async": "*",
-        "base58-native": "*",
+        "bs58check": "*",
         "bignum": "*",
         "bitcoinjs-lib-zcash": "git+https://github.com/runn1ng/bitcoinjs-lib.git#zcash",
         "equihashverify": "git+https://github.com/joshuayabut/equihashverify.git",
